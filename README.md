@@ -1,4 +1,3 @@
-
 # HW1 EE538 - Computing Principles for Electrical Engineers
 
 - Please clone the repository, edit [README.md](README.md) to answer the questions, and fill up functions to finish the homework.
@@ -13,9 +12,9 @@
 
 Create an account on GitHub and Stack Overflow and paste the link to your profile.
 
-GitHub profile link:
+GitHub profile link: https://github.com/achte-2022
 
-Stack Overflow profile link:
+Stack Overflow profile link: https://stackoverflow.com/users/19317719/tejas-acharya
 
 ## Question 2 (20 Points. Medium)
 
